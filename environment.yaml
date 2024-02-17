@@ -1,0 +1,8 @@
+name: udlbook
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pre-commit
+  - numpy
+  - matplotlib
